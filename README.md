@@ -40,6 +40,8 @@ console.log(x);
 ```
 ***
 
+## What You'll learn
+
 Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
 
 [![Tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)](https://raybo.org)
